@@ -20,8 +20,8 @@ class GetCompletions:
 
         if self.check_network.check_availability():
             # use: Api_May_27_2018.txt for testing
-            self.infilename = 'Api_May_27_2018.txt'
-            # self.infilename = input('Please enter api filename: ')
+            # self.infilename = 'Api_May_27_2018.txt'
+            self.infilename = input('Please enter api filename: ')
 
             self.infile = self.wpath.commandpath / self.infilename
             self.api = []
