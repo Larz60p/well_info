@@ -1,0 +1,18 @@
+Spud Date 02/20/1987
+Completion Date 06/27/1987
+Formation MUDDY-DAKOTA
+Reservoir Class O
+Spud Date 02/20/1987
+Completion Date 06/27/1987
+Formation MUDDY-DAKOTA
+Reservoir Class G
+Spud Date 02/20/1987
+Completion Date 03/24/1987
+Formation DAKOTA
+Total Depth 14140
+Plug Back 14055
+IP Oil Bbls 69
+IP Gas Mcf 540
+IP Water Bbls 0
+Reservoir Class O
+TD Formation FUSON
