@@ -6,7 +6,7 @@ import CheckInternet
 import sys
 
 
-class GetCompletions:
+class FetchReports:
     def __init__(self, infile):
         self.wpath = WellPaths.WellPaths()
         self.check_network = CheckInternet.CheckInternet()
@@ -98,4 +98,4 @@ class GetCompletions:
             file.unlink()
 
 if __name__ == '__main__':
-    GetCompletions('apis.txt')
+    FetchReports('apis.txt')
